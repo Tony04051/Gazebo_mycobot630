@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mycobot_interfaces/rosidl_typesupport_fastrtps_cpp/mycobot_interfaces/msg/detail/mycobot_set_coords__rosidl_typesupport_fastrtps_cpp.hpp

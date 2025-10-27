@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_generator_cpp/mycobot_pro450_interfaces/srv/detail/get_gripper_value__traits.hpp

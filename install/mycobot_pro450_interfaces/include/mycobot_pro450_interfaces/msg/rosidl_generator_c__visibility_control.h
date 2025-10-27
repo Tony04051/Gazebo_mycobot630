@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_generator_c/mycobot_pro450_interfaces/msg/rosidl_generator_c__visibility_control.h

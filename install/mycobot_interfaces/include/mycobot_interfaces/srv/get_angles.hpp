@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mycobot_interfaces/rosidl_generator_cpp/mycobot_interfaces/srv/get_angles.hpp

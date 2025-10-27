@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mecharm_interfaces/ament_cmake_core/mecharm_interfacesConfig.cmake

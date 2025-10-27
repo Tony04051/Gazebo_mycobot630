@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mecharm/launch/simple_gui.launch.py

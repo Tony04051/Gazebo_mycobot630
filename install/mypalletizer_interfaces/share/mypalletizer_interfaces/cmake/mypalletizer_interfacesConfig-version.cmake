@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mypalletizer_interfaces/ament_cmake_core/mypalletizer_interfacesConfig-version.cmake

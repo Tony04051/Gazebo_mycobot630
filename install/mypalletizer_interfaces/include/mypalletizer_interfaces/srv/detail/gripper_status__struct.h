@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mypalletizer_interfaces/rosidl_generator_c/mypalletizer_interfaces/srv/detail/gripper_status__struct.h

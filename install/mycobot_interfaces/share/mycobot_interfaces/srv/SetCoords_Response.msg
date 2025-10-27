@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mycobot_interfaces/rosidl_cmake/srv/SetCoords_Response.msg

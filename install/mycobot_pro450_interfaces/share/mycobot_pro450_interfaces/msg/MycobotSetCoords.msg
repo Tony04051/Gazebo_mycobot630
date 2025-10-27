@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/src/mycobot_ros2/mycobot_pro/mycobot_pro450_interfaces/msg/MycobotSetCoords.msg

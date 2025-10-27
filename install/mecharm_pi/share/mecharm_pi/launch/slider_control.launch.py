@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mecharm_pi/launch/slider_control.launch.py

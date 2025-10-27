@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/myarm_300/launch/simple_gui.launch.py

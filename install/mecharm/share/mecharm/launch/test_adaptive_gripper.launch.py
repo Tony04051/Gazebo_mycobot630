@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mecharm/launch/test_adaptive_gripper.launch.py

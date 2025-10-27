@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mecharm_interfaces/rosidl_generator_cpp/mecharm_interfaces/msg/mecharm_set_angles.hpp

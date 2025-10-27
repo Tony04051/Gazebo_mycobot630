@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mecharm_interfaces/rosidl_generator_c/mecharm_interfaces/srv/detail/get_coords__type_support.h

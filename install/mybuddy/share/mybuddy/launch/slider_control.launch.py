@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mybuddy/launch/slider_control.launch.py

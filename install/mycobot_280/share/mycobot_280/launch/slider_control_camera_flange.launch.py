@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mycobot_280/launch/slider_control_camera_flange.launch.py

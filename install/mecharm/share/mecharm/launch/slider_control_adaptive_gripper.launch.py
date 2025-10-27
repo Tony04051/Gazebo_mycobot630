@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mecharm/launch/slider_control_adaptive_gripper.launch.py

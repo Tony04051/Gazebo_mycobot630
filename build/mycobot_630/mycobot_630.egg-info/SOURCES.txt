@@ -9,6 +9,7 @@ setup.py
 ../../build/mycobot_630/mycobot_630.egg-info/top_level.txt
 ../../build/mycobot_630/mycobot_630.egg-info/zip-safe
 config/mycobot_630.rviz
+launch/mycobot_630_simulation.launch.py
 launch/setup_assistant.launch.py
 launch/slider_control.launch.py
 launch/test.launch.py

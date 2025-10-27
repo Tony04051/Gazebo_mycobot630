@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mycobot_interfaces/rosidl_generator_cpp/mycobot_interfaces/msg/detail/mycobot_set_angles__traits.hpp

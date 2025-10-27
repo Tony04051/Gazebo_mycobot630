@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mypalletizer_interfaces/rosidl_generator_cpp/mypalletizer_interfaces/msg/detail/mypal_set_coords__struct.hpp

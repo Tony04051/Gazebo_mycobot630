@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_typesupport_introspection_c/mycobot_pro450_interfaces/srv/detail/get_coords__rosidl_typesupport_introspection_c.h

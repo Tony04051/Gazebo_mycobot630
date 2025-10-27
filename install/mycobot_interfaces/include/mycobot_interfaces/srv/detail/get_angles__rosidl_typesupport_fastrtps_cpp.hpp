@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mycobot_interfaces/rosidl_typesupport_fastrtps_cpp/mycobot_interfaces/srv/detail/get_angles__rosidl_typesupport_fastrtps_cpp.hpp

@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mycobot_pro450_interfaces/ament_cmake_export_targets/ament_cmake_export_targets-extras.cmake

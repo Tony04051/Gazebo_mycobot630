@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/src/mycobot_ros2/mecharm/mecharm_interfaces/msg/MecharmGripperStatus.msg

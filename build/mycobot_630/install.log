@@ -8,6 +8,7 @@
 /home/tony/colcon_ws/install/mycobot_630/share/mycobot_630/package.xml
 /home/tony/colcon_ws/install/mycobot_630/share/mycobot_630/launch/setup_assistant.launch.py
 /home/tony/colcon_ws/install/mycobot_630/share/mycobot_630/launch/test.launch.py
+/home/tony/colcon_ws/install/mycobot_630/share/mycobot_630/launch/mycobot_630_simulation.launch.py
 /home/tony/colcon_ws/install/mycobot_630/share/mycobot_630/launch/slider_control.launch.py
 /home/tony/colcon_ws/install/mycobot_630/share/mycobot_630/config/mycobot_630.rviz
 /home/tony/colcon_ws/install/mycobot_630/lib/python3.8/site-packages/mycobot_630-0.0.0-py3.8.egg-info/dependency_links.txt

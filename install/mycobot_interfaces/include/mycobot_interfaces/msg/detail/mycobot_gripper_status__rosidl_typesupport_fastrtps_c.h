@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mycobot_interfaces/rosidl_typesupport_fastrtps_c/mycobot_interfaces/msg/detail/mycobot_gripper_status__rosidl_typesupport_fastrtps_c.h

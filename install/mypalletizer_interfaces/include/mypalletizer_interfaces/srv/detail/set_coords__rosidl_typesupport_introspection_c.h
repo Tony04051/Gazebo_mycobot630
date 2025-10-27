@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mypalletizer_interfaces/rosidl_typesupport_introspection_c/mypalletizer_interfaces/srv/detail/set_coords__rosidl_typesupport_introspection_c.h

@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_typesupport_introspection_cpp/mycobot_pro450_interfaces/srv/detail/gripper_status__rosidl_typesupport_introspection_cpp.hpp

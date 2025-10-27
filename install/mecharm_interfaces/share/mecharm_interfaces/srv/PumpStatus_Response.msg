@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/build/mecharm_interfaces/rosidl_cmake/srv/PumpStatus_Response.msg

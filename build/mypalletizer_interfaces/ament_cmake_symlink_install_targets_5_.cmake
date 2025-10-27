@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/tony/colcon_ws/build/mypalletizer_interfaces/rosidl_generator_py/mypalletizer_interfaces/libmypalletizer_interfaces__python.so" "TARGETS" "mypalletizer_interfaces__python" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

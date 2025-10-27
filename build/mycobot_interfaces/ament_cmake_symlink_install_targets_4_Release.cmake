@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/tony/colcon_ws/build/mycobot_interfaces/rosidl_generator_py/mycobot_interfaces/mycobot_interfaces_s__rosidl_typesupport_c.cpython-38-aarch64-linux-gnu.so" "TARGETS" "mycobot_interfaces__rosidl_typesupport_c__pyext" "DESTINATION" "lib/python3.8/site-packages/mycobot_interfaces")

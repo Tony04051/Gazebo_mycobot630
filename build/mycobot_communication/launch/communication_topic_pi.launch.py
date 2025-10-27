@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/src/mycobot_ros2/mycobot_communication/launch/communication_topic_pi.launch.py

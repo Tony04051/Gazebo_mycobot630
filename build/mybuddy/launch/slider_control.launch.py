@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/src/mycobot_ros2/Mybuddy/mybuddy/launch/slider_control.launch.py

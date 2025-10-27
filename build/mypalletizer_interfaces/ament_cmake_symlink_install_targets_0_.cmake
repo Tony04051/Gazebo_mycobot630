@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/tony/colcon_ws/build/mypalletizer_interfaces/libmypalletizer_interfaces__rosidl_typesupport_fastrtps_c.so" "TARGETS" "mypalletizer_interfaces__rosidl_typesupport_fastrtps_c" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

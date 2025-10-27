@@ -1,1 +1,0 @@
-/home/tony/colcon_ws/src/mycobot_ros2/myArm/myarm_300/launch/simple_gui.launch.py

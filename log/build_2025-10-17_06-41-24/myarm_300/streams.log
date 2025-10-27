@@ -1,0 +1,36 @@
+[0.280s] Invoking command in '/home/tony/colcon_ws/build/myarm_300': AMENT_PREFIX_PATH=/home/tony/colcon_ws/install/mycobot_description:${AMENT_PREFIX_PATH} PYTHONPATH=/home/tony/colcon_ws/build/myarm_300/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tony/colcon_ws/install/myarm_300/lib/python3.8/site-packages:/home/tony/colcon_ws/build/mycobot_description:/home/tony/colcon_ws/install/mycobot_description/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/tony/colcon_ws/build/myarm_300/build --no-deps symlink_data
+[0.383s] running develop
+[0.428s] running egg_info
+[0.428s] creating myarm_300.egg-info
+[0.428s] writing myarm_300.egg-info/PKG-INFO
+[0.428s] writing dependency_links to myarm_300.egg-info/dependency_links.txt
+[0.429s] writing entry points to myarm_300.egg-info/entry_points.txt
+[0.429s] writing requirements to myarm_300.egg-info/requires.txt
+[0.429s] writing top-level names to myarm_300.egg-info/top_level.txt
+[0.429s] writing manifest file 'myarm_300.egg-info/SOURCES.txt'
+[0.443s] reading manifest file 'myarm_300.egg-info/SOURCES.txt'
+[0.444s] writing manifest file 'myarm_300.egg-info/SOURCES.txt'
+[0.460s] running build_ext
+[0.460s] Creating /home/tony/colcon_ws/install/myarm_300/lib/python3.8/site-packages/site.py
+[0.461s] Creating /home/tony/colcon_ws/install/myarm_300/lib/python3.8/site-packages/myarm-300.egg-link (link to .)
+[0.461s] Installing follow_display script to /home/tony/colcon_ws/install/myarm_300/lib/myarm_300
+[0.461s] Installing simple_gui script to /home/tony/colcon_ws/install/myarm_300/lib/myarm_300
+[0.461s] Installing slider_control script to /home/tony/colcon_ws/install/myarm_300/lib/myarm_300
+[0.462s] Installing teleop_keyboard script to /home/tony/colcon_ws/install/myarm_300/lib/myarm_300
+[0.462s] 
+[0.462s] Installed /home/tony/colcon_ws/build/myarm_300
+[0.462s] running symlink_data
+[0.462s] creating /home/tony/colcon_ws/install/myarm_300/share/ament_index
+[0.462s] creating /home/tony/colcon_ws/install/myarm_300/share/ament_index/resource_index
+[0.462s] creating /home/tony/colcon_ws/install/myarm_300/share/ament_index/resource_index/packages
+[0.462s] symbolically linking /home/tony/colcon_ws/build/myarm_300/resource/myarm_300 -> /home/tony/colcon_ws/install/myarm_300/share/ament_index/resource_index/packages
+[0.462s] symbolically linking /home/tony/colcon_ws/build/myarm_300/package.xml -> /home/tony/colcon_ws/install/myarm_300/share/myarm_300
+[0.462s] creating /home/tony/colcon_ws/install/myarm_300/share/myarm_300/launch
+[0.462s] symbolically linking /home/tony/colcon_ws/build/myarm_300/launch/test.launch.py -> /home/tony/colcon_ws/install/myarm_300/share/myarm_300/launch
+[0.462s] symbolically linking /home/tony/colcon_ws/build/myarm_300/launch/teleop_keyboard.launch.py -> /home/tony/colcon_ws/install/myarm_300/share/myarm_300/launch
+[0.462s] symbolically linking /home/tony/colcon_ws/build/myarm_300/launch/simple_gui.launch.py -> /home/tony/colcon_ws/install/myarm_300/share/myarm_300/launch
+[0.462s] symbolically linking /home/tony/colcon_ws/build/myarm_300/launch/mycobot_follow.launch.py -> /home/tony/colcon_ws/install/myarm_300/share/myarm_300/launch
+[0.462s] symbolically linking /home/tony/colcon_ws/build/myarm_300/launch/slider_control.launch.py -> /home/tony/colcon_ws/install/myarm_300/share/myarm_300/launch
+[0.463s] creating /home/tony/colcon_ws/install/myarm_300/share/myarm_300/config
+[0.463s] symbolically linking /home/tony/colcon_ws/build/myarm_300/config/myarm_300.rviz -> /home/tony/colcon_ws/install/myarm_300/share/myarm_300/config
+[0.480s] Invoked command in '/home/tony/colcon_ws/build/myarm_300' returned '0': AMENT_PREFIX_PATH=/home/tony/colcon_ws/install/mycobot_description:${AMENT_PREFIX_PATH} PYTHONPATH=/home/tony/colcon_ws/build/myarm_300/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tony/colcon_ws/install/myarm_300/lib/python3.8/site-packages:/home/tony/colcon_ws/build/mycobot_description:/home/tony/colcon_ws/install/mycobot_description/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/tony/colcon_ws/build/myarm_300/build --no-deps symlink_data

@@ -1,0 +1,1 @@
+/home/tony/colcon_ws/build/mypalletizer_interfaces/rosidl_generator_cpp/mypalletizer_interfaces/srv/detail/set_coords__type_support.hpp

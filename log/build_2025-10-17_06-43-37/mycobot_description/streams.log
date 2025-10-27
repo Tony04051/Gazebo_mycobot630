@@ -1,0 +1,16 @@
+[0.349s] Invoking command in '/home/tony/colcon_ws/build/mycobot_description': PYTHONPATH=/home/tony/colcon_ws/build/mycobot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tony/colcon_ws/install/mycobot_description/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/tony/colcon_ws/build/mycobot_description/build --no-deps symlink_data
+[0.469s] running develop
+[0.515s] running egg_info
+[0.516s] writing mycobot_description.egg-info/PKG-INFO
+[0.516s] writing dependency_links to mycobot_description.egg-info/dependency_links.txt
+[0.516s] writing entry points to mycobot_description.egg-info/entry_points.txt
+[0.516s] writing requirements to mycobot_description.egg-info/requires.txt
+[0.516s] writing top-level names to mycobot_description.egg-info/top_level.txt
+[0.533s] reading manifest file 'mycobot_description.egg-info/SOURCES.txt'
+[0.536s] writing manifest file 'mycobot_description.egg-info/SOURCES.txt'
+[0.552s] running build_ext
+[0.552s] Creating /home/tony/colcon_ws/install/mycobot_description/lib/python3.8/site-packages/mycobot-description.egg-link (link to .)
+[0.553s] 
+[0.553s] Installed /home/tony/colcon_ws/build/mycobot_description
+[0.553s] running symlink_data
+[0.668s] Invoked command in '/home/tony/colcon_ws/build/mycobot_description' returned '0': PYTHONPATH=/home/tony/colcon_ws/build/mycobot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tony/colcon_ws/install/mycobot_description/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/tony/colcon_ws/build/mycobot_description/build --no-deps symlink_data

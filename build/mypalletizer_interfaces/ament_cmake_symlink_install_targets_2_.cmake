@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/tony/colcon_ws/build/mypalletizer_interfaces/rosidl_generator_py/mypalletizer_interfaces/mypalletizer_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so" "TARGETS" "mypalletizer_interfaces__rosidl_typesupport_fastrtps_c__pyext" "DESTINATION" "lib/python3.8/site-packages/mypalletizer_interfaces")

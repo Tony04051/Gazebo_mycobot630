@@ -1,0 +1,6 @@
+Invoking command in '/home/tony/colcon_ws/build/mycobot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/tony/colcon_ws/src/mycobot_ros2/mycobot_280/mycobot_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/colcon_ws/install/mycobot_interfaces
+Invoked command in '/home/tony/colcon_ws/build/mycobot_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/tony/colcon_ws/src/mycobot_ros2/mycobot_280/mycobot_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/colcon_ws/install/mycobot_interfaces
+Invoking command in '/home/tony/colcon_ws/build/mycobot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/tony/colcon_ws/build/mycobot_interfaces -- -j2 -l2
+Invoked command in '/home/tony/colcon_ws/build/mycobot_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/tony/colcon_ws/build/mycobot_interfaces -- -j2 -l2
+Invoking command in '/home/tony/colcon_ws/build/mycobot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/tony/colcon_ws/build/mycobot_interfaces
+Invoked command in '/home/tony/colcon_ws/build/mycobot_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/tony/colcon_ws/build/mycobot_interfaces

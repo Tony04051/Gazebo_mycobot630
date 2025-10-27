@@ -1,0 +1,1 @@
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_typesupport_fastrtps_c/mycobot_pro450_interfaces/msg/detail/mycobot_set_angles__rosidl_typesupport_fastrtps_c.h

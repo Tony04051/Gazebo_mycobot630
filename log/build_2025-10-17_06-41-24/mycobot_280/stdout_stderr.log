@@ -1,0 +1,49 @@
+running develop
+running egg_info
+creating mycobot_280.egg-info
+writing mycobot_280.egg-info/PKG-INFO
+writing dependency_links to mycobot_280.egg-info/dependency_links.txt
+writing entry points to mycobot_280.egg-info/entry_points.txt
+writing requirements to mycobot_280.egg-info/requires.txt
+writing top-level names to mycobot_280.egg-info/top_level.txt
+writing manifest file 'mycobot_280.egg-info/SOURCES.txt'
+reading manifest file 'mycobot_280.egg-info/SOURCES.txt'
+writing manifest file 'mycobot_280.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/tony/colcon_ws/install/mycobot_280/lib/python3.8/site-packages/site.py
+Creating /home/tony/colcon_ws/install/mycobot_280/lib/python3.8/site-packages/mycobot-280.egg-link (link to .)
+Installing camera_display script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+Installing follow_display script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+Installing listen_real script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+Installing listen_real_of_topic script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+Installing listen_real_service script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+Installing opencv_camera script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+Installing simple_gui script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+Installing slider_control script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+Installing slider_control_adaptive_gripper script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+Installing teleop_keyboard script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+
+Installed /home/tony/colcon_ws/build/mycobot_280
+running symlink_data
+creating /home/tony/colcon_ws/install/mycobot_280/share/ament_index
+creating /home/tony/colcon_ws/install/mycobot_280/share/ament_index/resource_index
+creating /home/tony/colcon_ws/install/mycobot_280/share/ament_index/resource_index/packages
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/resource/mycobot_280 -> /home/tony/colcon_ws/install/mycobot_280/share/ament_index/resource_index/packages
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/package.xml -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280
+creating /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/simple_gui_pump.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/test.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/test_pump.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/slider_control_adaptive_gripper.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/test_gripper.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/test_camera_flange_pump.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/teleop_keyboard.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/slider_control_camera_flange.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/simple_gui.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/test_camera_flange.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/slider_control_pump.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/mycobot_follow.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/slider_control.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+creating /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/config
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/config/mycobot_with_marker.rviz -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/config
+symbolically linking /home/tony/colcon_ws/build/mycobot_280/config/mycobot.rviz -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/config

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/tony/colcon_ws/build/mecharm_interfaces/rosidl_generator_py/mecharm_interfaces/mecharm_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so" "TARGETS" "mecharm_interfaces__rosidl_typesupport_fastrtps_c__pyext" "DESTINATION" "lib/python3.8/site-packages/mecharm_interfaces")

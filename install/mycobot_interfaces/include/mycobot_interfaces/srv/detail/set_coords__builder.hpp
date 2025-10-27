@@ -1,0 +1,1 @@
+/home/tony/colcon_ws/build/mycobot_interfaces/rosidl_generator_cpp/mycobot_interfaces/srv/detail/set_coords__builder.hpp

@@ -1,0 +1,281 @@
+[0.007s] Invoking command in '/home/tony/colcon_ws/build/mecharm_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/colcon_ws/install/mycobot_communication:/home/tony/colcon_ws/install/mecharm_communication:/home/tony/colcon_ws/install/mycobot_280:/home/tony/colcon_ws/install/mybuddy:/home/tony/colcon_ws/install/myarm_300:/home/tony/colcon_ws/install/mecharm_pi:/home/tony/colcon_ws/install/mecharm:/home/tony/colcon_ws/install/mycobot_description:/opt/ros/foxy /usr/bin/cmake --build /home/tony/colcon_ws/build/mecharm_interfaces -- -j2 -l2
+[0.057s] [  0%] Built target mecharm_interfaces__cpp
+[0.063s] [ 12%] Built target mecharm_interfaces__rosidl_generator_c
+[0.083s] [ 24%] Built target mecharm_interfaces__rosidl_typesupport_cpp
+[0.110s] [ 35%] Built target mecharm_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.124s] [ 47%] Built target mecharm_interfaces__rosidl_typesupport_c
+[0.134s] [ 59%] Built target mecharm_interfaces__rosidl_typesupport_introspection_cpp
+[0.164s] [ 71%] Built target mecharm_interfaces__rosidl_typesupport_introspection_c
+[0.171s] [ 83%] Built target mecharm_interfaces__rosidl_typesupport_fastrtps_c
+[0.191s] [ 83%] Built target mecharm_interfaces
+[0.206s] [ 84%] Built target mecharm_interfaces__py
+[0.232s] [ 95%] Built target mecharm_interfaces__python
+[0.254s] [ 96%] Built target mecharm_interfaces__rosidl_typesupport_c__pyext
+[0.267s] [ 98%] Built target mecharm_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.276s] [100%] Built target mecharm_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.287s] Invoked command in '/home/tony/colcon_ws/build/mecharm_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/colcon_ws/install/mycobot_communication:/home/tony/colcon_ws/install/mecharm_communication:/home/tony/colcon_ws/install/mycobot_280:/home/tony/colcon_ws/install/mybuddy:/home/tony/colcon_ws/install/myarm_300:/home/tony/colcon_ws/install/mecharm_pi:/home/tony/colcon_ws/install/mecharm:/home/tony/colcon_ws/install/mycobot_description:/opt/ros/foxy /usr/bin/cmake --build /home/tony/colcon_ws/build/mecharm_interfaces -- -j2 -l2
+[0.287s] Invoking command in '/home/tony/colcon_ws/build/mecharm_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/colcon_ws/install/mycobot_communication:/home/tony/colcon_ws/install/mecharm_communication:/home/tony/colcon_ws/install/mycobot_280:/home/tony/colcon_ws/install/mybuddy:/home/tony/colcon_ws/install/myarm_300:/home/tony/colcon_ws/install/mecharm_pi:/home/tony/colcon_ws/install/mecharm:/home/tony/colcon_ws/install/mycobot_description:/opt/ros/foxy /usr/bin/cmake --install /home/tony/colcon_ws/build/mecharm_interfaces
+[0.294s] -- Install configuration: ""
+[0.295s] -- Execute custom install script
+[0.295s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/ament_index/resource_index/rosidl_interfaces/mecharm_interfaces
+[0.296s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_angles__functions.h
+[0.296s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_angles__struct.h
+[0.296s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_angles__type_support.h
+[0.296s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_coords__functions.h
+[0.296s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_coords__struct.h
+[0.296s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_coords__type_support.h
+[0.297s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_gripper_status__functions.h
+[0.297s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_gripper_status__struct.h
+[0.297s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_gripper_status__type_support.h
+[0.297s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_pump_status__functions.h
+[0.297s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_pump_status__struct.h
+[0.297s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_pump_status__type_support.h
+[0.297s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_angles__functions.h
+[0.297s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_angles__struct.h
+[0.297s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_angles__type_support.h
+[0.297s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_coords__functions.h
+[0.298s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_coords__struct.h
+[0.298s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_coords__type_support.h
+[0.298s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/mecharm_angles.h
+[0.298s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/mecharm_coords.h
+[0.298s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/mecharm_gripper_status.h
+[0.298s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/mecharm_pump_status.h
+[0.298s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/mecharm_set_angles.h
+[0.298s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/mecharm_set_coords.h
+[0.298s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/rosidl_generator_c__visibility_control.h
+[0.298s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_angles__functions.h
+[0.299s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_angles__struct.h
+[0.299s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_angles__type_support.h
+[0.299s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_coords__functions.h
+[0.299s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_coords__struct.h
+[0.299s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_coords__type_support.h
+[0.299s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/gripper_status__functions.h
+[0.299s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/gripper_status__struct.h
+[0.299s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/gripper_status__type_support.h
+[0.299s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/pump_status__functions.h
+[0.299s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/pump_status__struct.h
+[0.299s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/pump_status__type_support.h
+[0.300s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_angles__functions.h
+[0.300s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_angles__struct.h
+[0.300s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_angles__type_support.h
+[0.300s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_coords__functions.h
+[0.300s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_coords__struct.h
+[0.300s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_coords__type_support.h
+[0.300s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/get_angles.h
+[0.300s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/get_coords.h
+[0.300s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/gripper_status.h
+[0.300s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/pump_status.h
+[0.301s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/set_angles.h
+[0.301s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/set_coords.h
+[0.302s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/environment/library_path.sh
+[0.302s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/environment/library_path.dsv
+[0.302s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_angles__rosidl_typesupport_fastrtps_c.h
+[0.303s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_coords__rosidl_typesupport_fastrtps_c.h
+[0.303s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_gripper_status__rosidl_typesupport_fastrtps_c.h
+[0.303s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_pump_status__rosidl_typesupport_fastrtps_c.h
+[0.303s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_angles__rosidl_typesupport_fastrtps_c.h
+[0.303s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_coords__rosidl_typesupport_fastrtps_c.h
+[0.303s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.303s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_angles__rosidl_typesupport_fastrtps_c.h
+[0.303s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_coords__rosidl_typesupport_fastrtps_c.h
+[0.303s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/gripper_status__rosidl_typesupport_fastrtps_c.h
+[0.303s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/pump_status__rosidl_typesupport_fastrtps_c.h
+[0.303s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_angles__rosidl_typesupport_fastrtps_c.h
+[0.304s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_coords__rosidl_typesupport_fastrtps_c.h
+[0.304s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/libmecharm_interfaces__rosidl_typesupport_fastrtps_c.so
+[0.305s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_angles__rosidl_typesupport_fastrtps_cpp.hpp
+[0.306s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_coords__rosidl_typesupport_fastrtps_cpp.hpp
+[0.306s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_gripper_status__rosidl_typesupport_fastrtps_cpp.hpp
+[0.306s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_pump_status__rosidl_typesupport_fastrtps_cpp.hpp
+[0.306s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_angles__rosidl_typesupport_fastrtps_cpp.hpp
+[0.306s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_coords__rosidl_typesupport_fastrtps_cpp.hpp
+[0.306s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.306s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_angles__rosidl_typesupport_fastrtps_cpp.hpp
+[0.306s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_coords__rosidl_typesupport_fastrtps_cpp.hpp
+[0.306s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/gripper_status__rosidl_typesupport_fastrtps_cpp.hpp
+[0.306s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/pump_status__rosidl_typesupport_fastrtps_cpp.hpp
+[0.306s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_angles__rosidl_typesupport_fastrtps_cpp.hpp
+[0.307s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_coords__rosidl_typesupport_fastrtps_cpp.hpp
+[0.307s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/libmecharm_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[0.307s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_angles__rosidl_typesupport_introspection_c.h
+[0.307s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_coords__rosidl_typesupport_introspection_c.h
+[0.307s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_gripper_status__rosidl_typesupport_introspection_c.h
+[0.307s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_pump_status__rosidl_typesupport_introspection_c.h
+[0.307s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_angles__rosidl_typesupport_introspection_c.h
+[0.308s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_coords__rosidl_typesupport_introspection_c.h
+[0.308s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.308s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_angles__rosidl_typesupport_introspection_c.h
+[0.308s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_coords__rosidl_typesupport_introspection_c.h
+[0.308s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/gripper_status__rosidl_typesupport_introspection_c.h
+[0.308s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/pump_status__rosidl_typesupport_introspection_c.h
+[0.308s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_angles__rosidl_typesupport_introspection_c.h
+[0.308s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_coords__rosidl_typesupport_introspection_c.h
+[0.309s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_angles__builder.hpp
+[0.309s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_angles__struct.hpp
+[0.309s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_angles__traits.hpp
+[0.309s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_angles__type_support.hpp
+[0.309s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_coords__builder.hpp
+[0.309s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_coords__struct.hpp
+[0.309s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_coords__traits.hpp
+[0.309s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_coords__type_support.hpp
+[0.309s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_gripper_status__builder.hpp
+[0.309s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_gripper_status__struct.hpp
+[0.310s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_gripper_status__traits.hpp
+[0.310s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_gripper_status__type_support.hpp
+[0.310s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_pump_status__builder.hpp
+[0.310s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_pump_status__struct.hpp
+[0.310s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_pump_status__traits.hpp
+[0.310s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_pump_status__type_support.hpp
+[0.310s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_angles__builder.hpp
+[0.310s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_angles__struct.hpp
+[0.310s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_angles__traits.hpp
+[0.310s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_angles__type_support.hpp
+[0.311s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_coords__builder.hpp
+[0.311s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_coords__struct.hpp
+[0.311s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_coords__traits.hpp
+[0.311s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_coords__type_support.hpp
+[0.311s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/mecharm_angles.hpp
+[0.311s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/mecharm_coords.hpp
+[0.311s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/mecharm_gripper_status.hpp
+[0.311s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/mecharm_pump_status.hpp
+[0.311s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/mecharm_set_angles.hpp
+[0.311s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/mecharm_set_coords.hpp
+[0.311s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.312s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_angles__builder.hpp
+[0.312s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_angles__struct.hpp
+[0.312s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_angles__traits.hpp
+[0.312s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_angles__type_support.hpp
+[0.312s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_coords__builder.hpp
+[0.312s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_coords__struct.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_coords__traits.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_coords__type_support.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/gripper_status__builder.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/gripper_status__struct.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/gripper_status__traits.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/gripper_status__type_support.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/pump_status__builder.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/pump_status__struct.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/pump_status__traits.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/pump_status__type_support.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_angles__builder.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_angles__struct.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_angles__traits.hpp
+[0.313s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_angles__type_support.hpp
+[0.314s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_coords__builder.hpp
+[0.314s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_coords__struct.hpp
+[0.314s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_coords__traits.hpp
+[0.314s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_coords__type_support.hpp
+[0.314s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/get_angles.hpp
+[0.314s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/get_coords.hpp
+[0.315s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/gripper_status.hpp
+[0.315s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/pump_status.hpp
+[0.315s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/set_angles.hpp
+[0.315s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/set_coords.hpp
+[0.316s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_angles__rosidl_typesupport_introspection_cpp.hpp
+[0.316s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_coords__rosidl_typesupport_introspection_cpp.hpp
+[0.316s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_gripper_status__rosidl_typesupport_introspection_cpp.hpp
+[0.316s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_pump_status__rosidl_typesupport_introspection_cpp.hpp
+[0.316s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_angles__rosidl_typesupport_introspection_cpp.hpp
+[0.316s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/msg/detail/mecharm_set_coords__rosidl_typesupport_introspection_cpp.hpp
+[0.316s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_angles__rosidl_typesupport_introspection_cpp.hpp
+[0.316s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/get_coords__rosidl_typesupport_introspection_cpp.hpp
+[0.316s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/gripper_status__rosidl_typesupport_introspection_cpp.hpp
+[0.316s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/pump_status__rosidl_typesupport_introspection_cpp.hpp
+[0.317s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_angles__rosidl_typesupport_introspection_cpp.hpp
+[0.317s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/include/mecharm_interfaces/srv/detail/set_coords__rosidl_typesupport_introspection_cpp.hpp
+[0.317s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/environment/pythonpath.sh
+[0.318s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/environment/pythonpath.dsv
+[0.318s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/__init__.py
+[0.318s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/msg/__init__.py
+[0.318s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/msg/_mecharm_angles.py
+[0.318s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/msg/_mecharm_coords.py
+[0.319s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/msg/_mecharm_gripper_status.py
+[0.319s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/msg/_mecharm_pump_status.py
+[0.319s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/msg/_mecharm_set_angles.py
+[0.319s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/msg/_mecharm_set_coords.py
+[0.319s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/srv/__init__.py
+[0.319s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/srv/_get_angles.py
+[0.319s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/srv/_get_coords.py
+[0.319s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/srv/_gripper_status.py
+[0.319s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/srv/_pump_status.py
+[0.319s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/srv/_set_angles.py
+[0.320s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/srv/_set_coords.py
+[0.320s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/mecharm_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so
+[0.320s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/mecharm_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-aarch64-linux-gnu.so
+[0.320s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/python3.8/site-packages/mecharm_interfaces/mecharm_interfaces_s__rosidl_typesupport_c.cpython-38-aarch64-linux-gnu.so
+[0.320s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/lib/libmecharm_interfaces__python.so
+[0.320s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/msg/MecharmAngles.idl
+[0.321s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/msg/MecharmCoords.idl
+[0.321s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/msg/MecharmSetAngles.idl
+[0.321s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/msg/MecharmSetCoords.idl
+[0.321s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/msg/MecharmGripperStatus.idl
+[0.321s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/msg/MecharmPumpStatus.idl
+[0.321s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/GetAngles.idl
+[0.321s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/SetAngles.idl
+[0.321s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/GetCoords.idl
+[0.322s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/SetCoords.idl
+[0.322s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/GripperStatus.idl
+[0.322s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/PumpStatus.idl
+[0.322s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/msg/MecharmAngles.msg
+[0.322s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/msg/MecharmCoords.msg
+[0.322s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/msg/MecharmSetAngles.msg
+[0.322s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/msg/MecharmSetCoords.msg
+[0.322s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/msg/MecharmGripperStatus.msg
+[0.323s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/msg/MecharmPumpStatus.msg
+[0.323s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/GetAngles.srv
+[0.323s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/GetAngles_Request.msg
+[0.323s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/GetAngles_Response.msg
+[0.323s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/SetAngles.srv
+[0.323s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/SetAngles_Request.msg
+[0.323s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/SetAngles_Response.msg
+[0.323s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/GetCoords.srv
+[0.324s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/GetCoords_Request.msg
+[0.324s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/GetCoords_Response.msg
+[0.324s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/SetCoords.srv
+[0.324s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/SetCoords_Request.msg
+[0.324s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/SetCoords_Response.msg
+[0.324s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/GripperStatus.srv
+[0.324s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/GripperStatus_Request.msg
+[0.324s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/GripperStatus_Response.msg
+[0.325s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/PumpStatus.srv
+[0.325s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/PumpStatus_Request.msg
+[0.325s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/srv/PumpStatus_Response.msg
+[0.325s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/ament_index/resource_index/package_run_dependencies/mecharm_interfaces
+[0.325s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/ament_index/resource_index/parent_prefix_path/mecharm_interfaces
+[0.325s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/environment/ament_prefix_path.sh
+[0.325s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/environment/ament_prefix_path.dsv
+[0.325s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/environment/path.sh
+[0.326s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/environment/path.dsv
+[0.326s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/local_setup.bash
+[0.326s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/local_setup.sh
+[0.326s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/local_setup.zsh
+[0.326s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/local_setup.dsv
+[0.326s] -- Symlinking: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/package.dsv
+[0.336s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/ament_index/resource_index/packages/mecharm_interfaces
+[0.336s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/rosidl_cmake-extras.cmake
+[0.336s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.336s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[0.336s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[0.336s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.336s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.336s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.336s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfacesConfig.cmake
+[0.336s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfacesConfig-version.cmake
+[0.336s] -- Up-to-date symlink: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/package.xml
+[0.336s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/lib/libmecharm_interfaces__rosidl_generator_c.so
+[0.336s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/lib/libmecharm_interfaces__rosidl_typesupport_introspection_c.so
+[0.336s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/lib/libmecharm_interfaces__rosidl_typesupport_c.so
+[0.336s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/lib/libmecharm_interfaces__rosidl_typesupport_introspection_cpp.so
+[0.336s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/lib/libmecharm_interfaces__rosidl_typesupport_cpp.so
+[0.365s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfaces__rosidl_generator_cExport.cmake
+[0.368s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfaces__rosidl_generator_cExport-noconfig.cmake
+[0.368s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[0.368s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.368s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfaces__rosidl_typesupport_cExport.cmake
+[0.368s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[0.368s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfaces__rosidl_generator_cppExport.cmake
+[0.368s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[0.368s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.368s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfaces__rosidl_typesupport_cppExport.cmake
+[0.368s] -- Up-to-date: /home/tony/colcon_ws/install/mecharm_interfaces/share/mecharm_interfaces/cmake/mecharm_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[0.369s] Invoked command in '/home/tony/colcon_ws/build/mecharm_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/colcon_ws/install/mycobot_communication:/home/tony/colcon_ws/install/mecharm_communication:/home/tony/colcon_ws/install/mycobot_280:/home/tony/colcon_ws/install/mybuddy:/home/tony/colcon_ws/install/myarm_300:/home/tony/colcon_ws/install/mecharm_pi:/home/tony/colcon_ws/install/mecharm:/home/tony/colcon_ws/install/mycobot_description:/opt/ros/foxy /usr/bin/cmake --install /home/tony/colcon_ws/build/mecharm_interfaces

@@ -1,0 +1,1 @@
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_generator_c/mycobot_pro450_interfaces/msg/detail/mycobot_set_coords__type_support.h

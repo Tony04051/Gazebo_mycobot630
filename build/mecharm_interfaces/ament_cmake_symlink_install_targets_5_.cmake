@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/tony/colcon_ws/build/mecharm_interfaces/rosidl_generator_py/mecharm_interfaces/libmecharm_interfaces__python.so" "TARGETS" "mecharm_interfaces__python" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

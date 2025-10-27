@@ -1,0 +1,6 @@
+Invoking command in '/home/tony/colcon_ws/build/mecharm_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/tony/colcon_ws/src/mycobot_ros2/mecharm/mecharm_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/colcon_ws/install/mecharm_interfaces
+Invoked command in '/home/tony/colcon_ws/build/mecharm_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/tony/colcon_ws/src/mycobot_ros2/mecharm/mecharm_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/colcon_ws/install/mecharm_interfaces
+Invoking command in '/home/tony/colcon_ws/build/mecharm_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/tony/colcon_ws/build/mecharm_interfaces -- -j2 -l2
+Invoked command in '/home/tony/colcon_ws/build/mecharm_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/tony/colcon_ws/build/mecharm_interfaces -- -j2 -l2
+Invoking command in '/home/tony/colcon_ws/build/mecharm_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/tony/colcon_ws/build/mecharm_interfaces
+Invoked command in '/home/tony/colcon_ws/build/mecharm_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/tony/colcon_ws/build/mecharm_interfaces

@@ -1,0 +1,7 @@
+[0.012s] Invoking command in '/home/tony/colcon_ws/build/mycobot_280_moveit2': AMENT_PREFIX_PATH=/home/tony/colcon_ws/install/mycobot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/foxy PYTHONPATH=/home/tony/colcon_ws/build/mycobot_description:/home/tony/colcon_ws/install/mycobot_description/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/tony/colcon_ws/src/mycobot_ros2/mycobot_280/mycobot_280_moveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/colcon_ws/install/mycobot_280_moveit2
+[0.021s] CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+[0.021s]   CMake 3.22 or higher is required.  You are running version 3.16.3
+[0.021s] 
+[0.021s] 
+[0.021s] -- Configuring incomplete, errors occurred!
+[0.024s] Invoked command in '/home/tony/colcon_ws/build/mycobot_280_moveit2' returned '1': AMENT_PREFIX_PATH=/home/tony/colcon_ws/install/mycobot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/foxy PYTHONPATH=/home/tony/colcon_ws/build/mycobot_description:/home/tony/colcon_ws/install/mycobot_description/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/tony/colcon_ws/src/mycobot_ros2/mycobot_280/mycobot_280_moveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/colcon_ws/install/mycobot_280_moveit2

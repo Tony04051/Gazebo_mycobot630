@@ -1,0 +1,1 @@
+/home/tony/colcon_ws/build/mypalletizer_interfaces/rosidl_cmake/srv/GetCoords_Response.msg

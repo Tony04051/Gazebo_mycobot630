@@ -1,0 +1,3 @@
+source;share/mycobot_630/hook/pythonpath.ps1
+source;share/mycobot_630/hook/pythonpath.dsv
+source;share/mycobot_630/hook/pythonpath.sh

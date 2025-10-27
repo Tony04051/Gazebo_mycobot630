@@ -1,0 +1,51 @@
+[0.322s] Invoking command in '/home/tony/colcon_ws/build/mycobot_280': AMENT_PREFIX_PATH=/home/tony/colcon_ws/install/mycobot_description:${AMENT_PREFIX_PATH} PYTHONPATH=/home/tony/colcon_ws/build/mycobot_280/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tony/colcon_ws/install/mycobot_280/lib/python3.8/site-packages:/home/tony/colcon_ws/build/mycobot_description:/home/tony/colcon_ws/install/mycobot_description/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/tony/colcon_ws/build/mycobot_280/build --no-deps symlink_data
+[0.479s] running develop
+[0.557s] running egg_info
+[0.557s] creating mycobot_280.egg-info
+[0.557s] writing mycobot_280.egg-info/PKG-INFO
+[0.557s] writing dependency_links to mycobot_280.egg-info/dependency_links.txt
+[0.557s] writing entry points to mycobot_280.egg-info/entry_points.txt
+[0.557s] writing requirements to mycobot_280.egg-info/requires.txt
+[0.558s] writing top-level names to mycobot_280.egg-info/top_level.txt
+[0.558s] writing manifest file 'mycobot_280.egg-info/SOURCES.txt'
+[0.585s] reading manifest file 'mycobot_280.egg-info/SOURCES.txt'
+[0.586s] writing manifest file 'mycobot_280.egg-info/SOURCES.txt'
+[0.611s] running build_ext
+[0.612s] Creating /home/tony/colcon_ws/install/mycobot_280/lib/python3.8/site-packages/site.py
+[0.617s] Creating /home/tony/colcon_ws/install/mycobot_280/lib/python3.8/site-packages/mycobot-280.egg-link (link to .)
+[0.618s] Installing camera_display script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+[0.618s] Installing follow_display script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+[0.618s] Installing listen_real script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+[0.618s] Installing listen_real_of_topic script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+[0.618s] Installing listen_real_service script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+[0.618s] Installing opencv_camera script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+[0.619s] Installing simple_gui script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+[0.619s] Installing slider_control script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+[0.619s] Installing slider_control_adaptive_gripper script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+[0.619s] Installing teleop_keyboard script to /home/tony/colcon_ws/install/mycobot_280/lib/mycobot_280
+[0.619s] 
+[0.619s] Installed /home/tony/colcon_ws/build/mycobot_280
+[0.619s] running symlink_data
+[0.619s] creating /home/tony/colcon_ws/install/mycobot_280/share/ament_index
+[0.619s] creating /home/tony/colcon_ws/install/mycobot_280/share/ament_index/resource_index
+[0.620s] creating /home/tony/colcon_ws/install/mycobot_280/share/ament_index/resource_index/packages
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/resource/mycobot_280 -> /home/tony/colcon_ws/install/mycobot_280/share/ament_index/resource_index/packages
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/package.xml -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280
+[0.620s] creating /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/simple_gui_pump.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/test.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/test_pump.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/slider_control_adaptive_gripper.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/test_gripper.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/test_camera_flange_pump.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/teleop_keyboard.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/slider_control_camera_flange.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/simple_gui.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/test_camera_flange.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/slider_control_pump.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.620s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/mycobot_follow.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.621s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/launch/slider_control.launch.py -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/launch
+[0.621s] creating /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/config
+[0.621s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/config/mycobot_with_marker.rviz -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/config
+[0.621s] symbolically linking /home/tony/colcon_ws/build/mycobot_280/config/mycobot.rviz -> /home/tony/colcon_ws/install/mycobot_280/share/mycobot_280/config
+[0.646s] Invoked command in '/home/tony/colcon_ws/build/mycobot_280' returned '0': AMENT_PREFIX_PATH=/home/tony/colcon_ws/install/mycobot_description:${AMENT_PREFIX_PATH} PYTHONPATH=/home/tony/colcon_ws/build/mycobot_280/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tony/colcon_ws/install/mycobot_280/lib/python3.8/site-packages:/home/tony/colcon_ws/build/mycobot_description:/home/tony/colcon_ws/install/mycobot_description/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/tony/colcon_ws/build/mycobot_280/build --no-deps symlink_data

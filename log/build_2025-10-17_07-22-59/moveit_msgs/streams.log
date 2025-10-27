@@ -1,0 +1,49 @@
+[0.017s] Invoking command in '/home/tony/colcon_ws/build/moveit_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/colcon_ws/install/mycobot_630:/home/tony/colcon_ws/install/mycobot_communication:/home/tony/colcon_ws/install/mecharm_communication:/home/tony/colcon_ws/install/mycobot_280:/home/tony/colcon_ws/install/mybuddy:/home/tony/colcon_ws/install/myarm_300:/home/tony/colcon_ws/install/mecharm_pi:/home/tony/colcon_ws/install/mecharm:/home/tony/colcon_ws/install/mycobot_description:/opt/ros/foxy /usr/bin/cmake /home/tony/colcon_ws/ws_moveit2/src/moveit_msgs -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/tony/colcon_ws/install/moveit_msgs
+[0.094s] -- The C compiler identification is GNU 9.4.0
+[0.188s] -- The CXX compiler identification is GNU 9.4.0
+[0.190s] -- Check for working C compiler: /usr/bin/cc
+[0.295s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.297s] -- Detecting C compiler ABI info
+[0.369s] -- Detecting C compiler ABI info - done
+[0.375s] -- Detecting C compile features
+[0.375s] -- Detecting C compile features - done
+[0.379s] -- Check for working CXX compiler: /usr/bin/c++
+[0.497s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.497s] -- Detecting CXX compiler ABI info
+[0.607s] -- Detecting CXX compiler ABI info - done
+[0.613s] -- Detecting CXX compile features
+[0.613s] -- Detecting CXX compile features - done
+[0.619s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.664s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.664s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.765s] -- Found rosidl_default_generators: 1.0.1 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+[0.768s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.772s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.853s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.870s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.913s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.940s] -- Found action_msgs: 1.0.0 (/opt/ros/foxy/share/action_msgs/cmake)
+[1.029s] -- Found std_msgs: 2.0.5 (/opt/ros/foxy/share/std_msgs/cmake)
+[1.061s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[1.108s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[1.221s] -- Found shape_msgs: 2.0.5 (/opt/ros/foxy/share/shape_msgs/cmake)
+[1.289s] CMake Error at CMakeLists.txt:24 (find_package):
+[1.289s]   By not providing "Findobject_recognition_msgs.cmake" in CMAKE_MODULE_PATH
+[1.289s]   this project has asked CMake to find a package configuration file provided
+[1.289s]   by "object_recognition_msgs", but CMake did not find one.
+[1.289s] 
+[1.289s]   Could not find a package configuration file provided by
+[1.289s]   "object_recognition_msgs" with any of the following names:
+[1.289s] 
+[1.289s]     object_recognition_msgsConfig.cmake
+[1.289s]     object_recognition_msgs-config.cmake
+[1.289s] 
+[1.289s]   Add the installation prefix of "object_recognition_msgs" to
+[1.289s]   CMAKE_PREFIX_PATH or set "object_recognition_msgs_DIR" to a directory
+[1.289s]   containing one of the above files.  If "object_recognition_msgs" provides a
+[1.289s]   separate development package or SDK, be sure it has been installed.
+[1.289s] 
+[1.289s] 
+[1.289s] -- Configuring incomplete, errors occurred!
+[1.289s] See also "/home/tony/colcon_ws/build/moveit_msgs/CMakeFiles/CMakeOutput.log".
+[1.295s] Invoked command in '/home/tony/colcon_ws/build/moveit_msgs' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/colcon_ws/install/mycobot_630:/home/tony/colcon_ws/install/mycobot_communication:/home/tony/colcon_ws/install/mecharm_communication:/home/tony/colcon_ws/install/mycobot_280:/home/tony/colcon_ws/install/mybuddy:/home/tony/colcon_ws/install/myarm_300:/home/tony/colcon_ws/install/mecharm_pi:/home/tony/colcon_ws/install/mecharm:/home/tony/colcon_ws/install/mycobot_description:/opt/ros/foxy /usr/bin/cmake /home/tony/colcon_ws/ws_moveit2/src/moveit_msgs -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/tony/colcon_ws/install/moveit_msgs

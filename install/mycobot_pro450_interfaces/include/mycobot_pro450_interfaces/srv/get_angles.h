@@ -1,0 +1,1 @@
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_generator_c/mycobot_pro450_interfaces/srv/get_angles.h

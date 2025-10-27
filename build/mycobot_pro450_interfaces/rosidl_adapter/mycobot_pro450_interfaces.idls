@@ -1,0 +1,11 @@
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_adapter/mycobot_pro450_interfaces:msg/MycobotAngles.idl
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_adapter/mycobot_pro450_interfaces:msg/MycobotCoords.idl
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_adapter/mycobot_pro450_interfaces:msg/MycobotSetAngles.idl
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_adapter/mycobot_pro450_interfaces:msg/MycobotSetCoords.idl
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_adapter/mycobot_pro450_interfaces:msg/MycobotGripperStatus.idl
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_adapter/mycobot_pro450_interfaces:srv/GetAngles.idl
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_adapter/mycobot_pro450_interfaces:srv/SetAngles.idl
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_adapter/mycobot_pro450_interfaces:srv/GetCoords.idl
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_adapter/mycobot_pro450_interfaces:srv/SetCoords.idl
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_adapter/mycobot_pro450_interfaces:srv/GripperStatus.idl
+/home/tony/colcon_ws/build/mycobot_pro450_interfaces/rosidl_adapter/mycobot_pro450_interfaces:srv/GetGripperValue.idl

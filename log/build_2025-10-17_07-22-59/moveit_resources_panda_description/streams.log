@@ -1,0 +1,68 @@
+[0.028s] Invoking command in '/home/tony/colcon_ws/build/moveit_resources_panda_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/colcon_ws/install/mycobot_630:/home/tony/colcon_ws/install/mycobot_communication:/home/tony/colcon_ws/install/mecharm_communication:/home/tony/colcon_ws/install/mycobot_280:/home/tony/colcon_ws/install/mybuddy:/home/tony/colcon_ws/install/myarm_300:/home/tony/colcon_ws/install/mecharm_pi:/home/tony/colcon_ws/install/mecharm:/home/tony/colcon_ws/install/mycobot_description:/opt/ros/foxy /usr/bin/cmake /home/tony/colcon_ws/ws_moveit2/src/moveit_resources/panda_description -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/tony/colcon_ws/install/moveit_resources_panda_description
+[0.128s] -- The C compiler identification is GNU 9.4.0
+[0.187s] -- The CXX compiler identification is GNU 9.4.0
+[0.193s] -- Check for working C compiler: /usr/bin/cc
+[0.305s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.306s] -- Detecting C compiler ABI info
+[0.454s] -- Detecting C compiler ABI info - done
+[0.463s] -- Detecting C compile features
+[0.463s] -- Detecting C compile features - done
+[0.464s] -- Check for working CXX compiler: /usr/bin/c++
+[0.575s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.575s] -- Detecting CXX compiler ABI info
+[0.657s] -- Detecting CXX compiler ABI info - done
+[0.662s] -- Detecting CXX compile features
+[0.662s] -- Detecting CXX compile features - done
+[0.668s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.713s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.713s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.025s] -- Configuring done
+[1.026s] -- Generating done
+[1.027s] -- Build files have been written to: /home/tony/colcon_ws/build/moveit_resources_panda_description
+[1.029s] Invoked command in '/home/tony/colcon_ws/build/moveit_resources_panda_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/colcon_ws/install/mycobot_630:/home/tony/colcon_ws/install/mycobot_communication:/home/tony/colcon_ws/install/mecharm_communication:/home/tony/colcon_ws/install/mycobot_280:/home/tony/colcon_ws/install/mybuddy:/home/tony/colcon_ws/install/myarm_300:/home/tony/colcon_ws/install/mecharm_pi:/home/tony/colcon_ws/install/mecharm:/home/tony/colcon_ws/install/mycobot_description:/opt/ros/foxy /usr/bin/cmake /home/tony/colcon_ws/ws_moveit2/src/moveit_resources/panda_description -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/tony/colcon_ws/install/moveit_resources_panda_description
+[1.029s] Invoking command in '/home/tony/colcon_ws/build/moveit_resources_panda_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/colcon_ws/install/mycobot_630:/home/tony/colcon_ws/install/mycobot_communication:/home/tony/colcon_ws/install/mecharm_communication:/home/tony/colcon_ws/install/mycobot_280:/home/tony/colcon_ws/install/mybuddy:/home/tony/colcon_ws/install/myarm_300:/home/tony/colcon_ws/install/mecharm_pi:/home/tony/colcon_ws/install/mecharm:/home/tony/colcon_ws/install/mycobot_description:/opt/ros/foxy /usr/bin/cmake --build /home/tony/colcon_ws/build/moveit_resources_panda_description -- -j2 -l2
+[1.093s] Invoked command in '/home/tony/colcon_ws/build/moveit_resources_panda_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/colcon_ws/install/mycobot_630:/home/tony/colcon_ws/install/mycobot_communication:/home/tony/colcon_ws/install/mecharm_communication:/home/tony/colcon_ws/install/mycobot_280:/home/tony/colcon_ws/install/mybuddy:/home/tony/colcon_ws/install/myarm_300:/home/tony/colcon_ws/install/mecharm_pi:/home/tony/colcon_ws/install/mecharm:/home/tony/colcon_ws/install/mycobot_description:/opt/ros/foxy /usr/bin/cmake --build /home/tony/colcon_ws/build/moveit_resources_panda_description -- -j2 -l2
+[1.113s] Invoking command in '/home/tony/colcon_ws/build/moveit_resources_panda_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/colcon_ws/install/mycobot_630:/home/tony/colcon_ws/install/mycobot_communication:/home/tony/colcon_ws/install/mecharm_communication:/home/tony/colcon_ws/install/mycobot_280:/home/tony/colcon_ws/install/mybuddy:/home/tony/colcon_ws/install/myarm_300:/home/tony/colcon_ws/install/mecharm_pi:/home/tony/colcon_ws/install/mecharm:/home/tony/colcon_ws/install/mycobot_description:/opt/ros/foxy /usr/bin/cmake --install /home/tony/colcon_ws/build/moveit_resources_panda_description
+[1.124s] -- Install configuration: "Release"
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/ament_index/resource_index/package_run_dependencies/moveit_resources_panda_description
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/ament_index/resource_index/parent_prefix_path/moveit_resources_panda_description
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/ament_prefix_path.sh
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/ament_prefix_path.dsv
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/path.sh
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/path.dsv
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.bash
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.sh
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.zsh
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.dsv
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/package.dsv
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/ament_index/resource_index/packages/moveit_resources_panda_description
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/cmake/moveit_resources_panda_descriptionConfig.cmake
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/cmake/moveit_resources_panda_descriptionConfig-version.cmake
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/package.xml
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/finger.stl
+[1.124s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link1.stl
+[1.125s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/hand.stl
+[1.125s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link3.stl
+[1.125s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link7.stl
+[1.126s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link5.stl
+[1.126s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link4.stl
+[1.126s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link6.stl
+[1.126s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link2.stl
+[1.126s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link0.stl
+[1.126s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual
+[1.126s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link6.dae
+[1.129s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link1.dae
+[1.130s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/hand.dae
+[1.131s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link5.dae
+[1.133s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link0.dae
+[1.135s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link2.dae
+[1.136s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link4.dae
+[1.138s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link7.dae
+[1.138s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/finger.dae
+[1.139s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link3.dae
+[1.140s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/urdf
+[1.140s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/urdf/panda.urdf
+[1.140s] -- Installing: /home/tony/colcon_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/urdf/panda.urdf.xacro
+[1.144s] Invoked command in '/home/tony/colcon_ws/build/moveit_resources_panda_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/colcon_ws/install/mycobot_630:/home/tony/colcon_ws/install/mycobot_communication:/home/tony/colcon_ws/install/mecharm_communication:/home/tony/colcon_ws/install/mycobot_280:/home/tony/colcon_ws/install/mybuddy:/home/tony/colcon_ws/install/myarm_300:/home/tony/colcon_ws/install/mecharm_pi:/home/tony/colcon_ws/install/mecharm:/home/tony/colcon_ws/install/mycobot_description:/opt/ros/foxy /usr/bin/cmake --install /home/tony/colcon_ws/build/moveit_resources_panda_description

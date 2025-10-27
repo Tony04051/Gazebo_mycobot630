@@ -1,0 +1,1 @@
+/home/tony/colcon_ws/build/mecharm_interfaces/rosidl_generator_cpp/mecharm_interfaces/msg/detail/mecharm_gripper_status__type_support.hpp

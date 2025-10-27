@@ -1,0 +1,1 @@
+/home/tony/colcon_ws/build/mycobot_interfaces/rosidl_cmake/rosidl_cmake-extras.cmake
